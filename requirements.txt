@@ -1,0 +1,11 @@
+pandas>=2.0
+numpy>=1.24
+requests>=2.31
+beautifulsoup4>=4.12
+lxml>=4.9
+pyarrow>=14.0
+python-dotenv>=1.0
+PyYAML>=6.0
+streamlit>=1.30
+plotly>=5.18
+anthropic>=0.40

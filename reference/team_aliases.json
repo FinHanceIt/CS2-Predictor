@@ -1,0 +1,2302 @@
+{
+  "36": {
+    "name": "Sangal",
+    "slug": "sangal",
+    "rank": null
+  },
+  "95": {
+    "name": "Elites",
+    "slug": "elites",
+    "rank": null
+  },
+  "100": {
+    "name": "Red Feet",
+    "slug": "red-feet",
+    "rank": null
+  },
+  "151": {
+    "name": "Rooster",
+    "slug": "rooster",
+    "rank": null
+  },
+  "200": {
+    "name": "Sinners",
+    "slug": "sinners",
+    "rank": null
+  },
+  "238": {
+    "name": "1win",
+    "slug": "1win",
+    "rank": null
+  },
+  "312": {
+    "name": "Saw",
+    "slug": "saw",
+    "rank": null
+  },
+  "324": {
+    "name": "9Z",
+    "slug": "9z",
+    "rank": null
+  },
+  "326": {
+    "name": "Nexus",
+    "slug": "nexus",
+    "rank": null
+  },
+  "330": {
+    "name": "Big Academy",
+    "slug": "big-academy",
+    "rank": null
+  },
+  "331": {
+    "name": "Empire",
+    "slug": "empire",
+    "rank": null
+  },
+  "370": {
+    "name": "Brute",
+    "slug": "brute",
+    "rank": null
+  },
+  "395": {
+    "name": "OG",
+    "slug": "og",
+    "rank": null
+  },
+  "420": {
+    "name": "Enrage",
+    "slug": "enrage",
+    "rank": null
+  },
+  "427": {
+    "name": "Maquinas",
+    "slug": "maquinas",
+    "rank": null
+  },
+  "441": {
+    "name": "Natus Vincere Junior",
+    "slug": "natus-vincere-junior",
+    "rank": null
+  },
+  "464": {
+    "name": "100 Thieves",
+    "slug": "100-thieves",
+    "rank": null
+  },
+  "476": {
+    "name": "Lynn Vision",
+    "slug": "lynn-vision",
+    "rank": null
+  },
+  "486": {
+    "name": "Lilmix",
+    "slug": "lilmix",
+    "rank": null
+  },
+  "495": {
+    "name": "9ine",
+    "slug": "9ine",
+    "rank": null
+  },
+  "529": {
+    "name": "Skele",
+    "slug": "skele",
+    "rank": null
+  },
+  "554": {
+    "name": "Red Canids CS GO",
+    "slug": "red-canids-cs-go",
+    "rank": null
+  },
+  "584": {
+    "name": "Ground Zero",
+    "slug": "ground-zero",
+    "rank": null
+  },
+  "591": {
+    "name": "Isurus Gaming CS GO",
+    "slug": "isurus-gaming-cs-go",
+    "rank": null
+  },
+  "594": {
+    "name": "Gamerlegion",
+    "slug": "gamerlegion",
+    "rank": null
+  },
+  "627": {
+    "name": "Havu",
+    "slug": "havu",
+    "rank": null
+  },
+  "637": {
+    "name": "Pain Gaming",
+    "slug": "pain-gaming",
+    "rank": null
+  },
+  "647": {
+    "name": "Tricked",
+    "slug": "tricked",
+    "rank": null
+  },
+  "648": {
+    "name": "Furia",
+    "slug": "furia",
+    "rank": null
+  },
+  "654": {
+    "name": "Spirit",
+    "slug": "spirit",
+    "rank": null
+  },
+  "655": {
+    "name": "Nemiga",
+    "slug": "nemiga",
+    "rank": null
+  },
+  "667": {
+    "name": "Vitality",
+    "slug": "vitality",
+    "rank": null
+  },
+  "696": {
+    "name": "3dmax",
+    "slug": "3dmax",
+    "rank": null
+  },
+  "736": {
+    "name": "The Mongolz",
+    "slug": "the-mongolz",
+    "rank": null
+  },
+  "742": {
+    "name": "Esc",
+    "slug": "esc",
+    "rank": null
+  },
+  "747": {
+    "name": "Sharks",
+    "slug": "sharks",
+    "rank": null
+  },
+  "751": {
+    "name": "Nrg",
+    "slug": "nrg",
+    "rank": null
+  },
+  "754": {
+    "name": "Ence",
+    "slug": "ence",
+    "rank": null
+  },
+  "755": {
+    "name": "Mibr",
+    "slug": "mibr",
+    "rank": null
+  },
+  "756": {
+    "name": "Big",
+    "slug": "big",
+    "rank": null
+  },
+  "757": {
+    "name": "Tyloo CS GO",
+    "slug": "tyloo-cs-go",
+    "rank": null
+  },
+  "759": {
+    "name": "Heroic",
+    "slug": "heroic",
+    "rank": null
+  },
+  "765": {
+    "name": "Mousesports",
+    "slug": "mousesports",
+    "rank": null
+  },
+  "778": {
+    "name": "Keyd Stars CS GO",
+    "slug": "keyd-stars-cs-go",
+    "rank": null
+  },
+  "785": {
+    "name": "Nip",
+    "slug": "nip",
+    "rank": null
+  },
+  "786": {
+    "name": "Fnatic",
+    "slug": "fnatic",
+    "rank": null
+  },
+  "787": {
+    "name": "Natus Vincere",
+    "slug": "natus-vincere",
+    "rank": null
+  },
+  "790": {
+    "name": "Liquid",
+    "slug": "liquid",
+    "rank": null
+  },
+  "791": {
+    "name": "Faze",
+    "slug": "faze",
+    "rank": null
+  },
+  "793": {
+    "name": "G2",
+    "slug": "g2",
+    "rank": null
+  },
+  "794": {
+    "name": "Astralis",
+    "slug": "astralis",
+    "rank": null
+  },
+  "814": {
+    "name": "VP Prodigy",
+    "slug": "vp-prodigy",
+    "rank": null
+  },
+  "866": {
+    "name": "Olgod Efterskole",
+    "slug": "olgod-efterskole",
+    "rank": null
+  },
+  "870": {
+    "name": "Struggletony",
+    "slug": "struggletony",
+    "rank": null
+  },
+  "882": {
+    "name": "Bekescsabai",
+    "slug": "bekescsabai",
+    "rank": null
+  },
+  "890": {
+    "name": "Aab Esport",
+    "slug": "aab-esport",
+    "rank": null
+  },
+  "898": {
+    "name": "Procyon Gaming",
+    "slug": "procyon-gaming",
+    "rank": null
+  },
+  "907": {
+    "name": "Young Ninjas",
+    "slug": "young-ninjas",
+    "rank": null
+  },
+  "937": {
+    "name": "Entropy Gaming",
+    "slug": "entropy-gaming",
+    "rank": null
+  },
+  "1013": {
+    "name": "Overknight",
+    "slug": "overknight",
+    "rank": null
+  },
+  "1024": {
+    "name": "Infinite Gaming",
+    "slug": "infinite-gaming",
+    "rank": null
+  },
+  "1059": {
+    "name": "Masonic",
+    "slug": "masonic",
+    "rank": null
+  },
+  "1097": {
+    "name": "Incognito CS GO",
+    "slug": "incognito-cs-go",
+    "rank": null
+  },
+  "1199": {
+    "name": "Esuba CS GO",
+    "slug": "esuba-cs-go",
+    "rank": null
+  },
+  "1226": {
+    "name": "Megoshort",
+    "slug": "megoshort",
+    "rank": null
+  },
+  "1238": {
+    "name": "Bankapepsi",
+    "slug": "bankapepsi",
+    "rank": null
+  },
+  "1279": {
+    "name": "Honved",
+    "slug": "honved",
+    "rank": null
+  },
+  "1309": {
+    "name": "Spirit Academy",
+    "slug": "spirit-academy",
+    "rank": null
+  },
+  "1406": {
+    "name": "Genone",
+    "slug": "genone",
+    "rank": null
+  },
+  "1430": {
+    "name": "Imperial",
+    "slug": "imperial",
+    "rank": null
+  },
+  "1455": {
+    "name": "Mouz Nxt",
+    "slug": "mouz-nxt",
+    "rank": null
+  },
+  "1527": {
+    "name": "Eternal Fire",
+    "slug": "eternal-fire",
+    "rank": null
+  },
+  "1539": {
+    "name": "B8",
+    "slug": "b8",
+    "rank": null
+  },
+  "1545": {
+    "name": "Playing Ducks",
+    "slug": "playing-ducks",
+    "rank": null
+  },
+  "1550": {
+    "name": "Coalesce",
+    "slug": "coalesce",
+    "rank": null
+  },
+  "1555": {
+    "name": "Glitchtech Esports",
+    "slug": "glitchtech-esports",
+    "rank": null
+  },
+  "1578": {
+    "name": "Metizport",
+    "slug": "metizport",
+    "rank": null
+  },
+  "1586": {
+    "name": "Furia FE",
+    "slug": "furia-fe",
+    "rank": null
+  },
+  "1588": {
+    "name": "Nsn Gaming",
+    "slug": "nsn-gaming",
+    "rank": null
+  },
+  "2239": {
+    "name": "Mibr Academy",
+    "slug": "mibr-academy",
+    "rank": null
+  },
+  "2245": {
+    "name": "Ecstatic",
+    "slug": "ecstatic",
+    "rank": null
+  },
+  "2264": {
+    "name": "Linx Legacy Esport",
+    "slug": "linx-legacy-esport",
+    "rank": null
+  },
+  "2279": {
+    "name": "EC Banga",
+    "slug": "ec-banga",
+    "rank": null
+  },
+  "2305": {
+    "name": "Eternal Fire Academy",
+    "slug": "eternal-fire-academy",
+    "rank": null
+  },
+  "2330": {
+    "name": "Carritospain",
+    "slug": "carritospain",
+    "rank": null
+  },
+  "2438": {
+    "name": "Akimbo",
+    "slug": "akimbo",
+    "rank": null
+  },
+  "2456": {
+    "name": "Mibr_fe",
+    "slug": "mibr_fe",
+    "rank": null
+  },
+  "2506": {
+    "name": "Rare Atom",
+    "slug": "rare-atom",
+    "rank": null
+  },
+  "2575": {
+    "name": "Arcred",
+    "slug": "arcred",
+    "rank": null
+  },
+  "2594": {
+    "name": "Incontrol",
+    "slug": "incontrol",
+    "rank": null
+  },
+  "2676": {
+    "name": "Thebardolphs",
+    "slug": "thebardolphs",
+    "rank": null
+  },
+  "2698": {
+    "name": "Gaimingladiators",
+    "slug": "gaimingladiators",
+    "rank": null
+  },
+  "2713": {
+    "name": "Falcons Esports",
+    "slug": "falcons-esports",
+    "rank": null
+  },
+  "2719": {
+    "name": "Quazar",
+    "slug": "quazar",
+    "rank": null
+  },
+  "2720": {
+    "name": "Hotu",
+    "slug": "hotu",
+    "rank": null
+  },
+  "2740": {
+    "name": "The Last Resort",
+    "slug": "the-last-resort",
+    "rank": null
+  },
+  "2744": {
+    "name": "Dripmen",
+    "slug": "dripmen",
+    "rank": null
+  },
+  "2756": {
+    "name": "Uno Mille",
+    "slug": "uno-mille",
+    "rank": null
+  },
+  "2868": {
+    "name": "Kuusamogg",
+    "slug": "kuusamogg",
+    "rank": null
+  },
+  "2913": {
+    "name": "Gothboiclique",
+    "slug": "gothboiclique",
+    "rank": null
+  },
+  "2924": {
+    "name": "Baks Esports",
+    "slug": "baks-esports",
+    "rank": null
+  },
+  "3012": {
+    "name": "Largados_e_pelados",
+    "slug": "largados_e_pelados",
+    "rank": null
+  },
+  "3081": {
+    "name": "Sashi Esport",
+    "slug": "sashi-esport",
+    "rank": null
+  },
+  "3167": {
+    "name": "Platoon Alpha",
+    "slug": "platoon-alpha",
+    "rank": null
+  },
+  "3192": {
+    "name": "Mindfreak",
+    "slug": "mindfreak",
+    "rank": null
+  },
+  "3223": {
+    "name": "Toomuchvideogames",
+    "slug": "toomuchvideogames",
+    "rank": null
+  },
+  "3229": {
+    "name": "Players BR",
+    "slug": "players-br",
+    "rank": null
+  },
+  "3231": {
+    "name": "Big Equipa",
+    "slug": "big-equipa",
+    "rank": null
+  },
+  "3254": {
+    "name": "Eyeballers",
+    "slug": "eyeballers",
+    "rank": null
+  },
+  "3370": {
+    "name": "Oddik",
+    "slug": "oddik",
+    "rank": null
+  },
+  "3414": {
+    "name": "Ence Academy",
+    "slug": "ence-academy",
+    "rank": null
+  },
+  "3581": {
+    "name": "Monte",
+    "slug": "monte",
+    "rank": null
+  },
+  "3598": {
+    "name": "Aurora Gaming",
+    "slug": "aurora-gaming",
+    "rank": null
+  },
+  "3625": {
+    "name": "Yawara Esports",
+    "slug": "yawara-esports",
+    "rank": null
+  },
+  "3643": {
+    "name": "Partizan Esport",
+    "slug": "partizan-esport",
+    "rank": null
+  },
+  "3661": {
+    "name": "Fluxo",
+    "slug": "fluxo",
+    "rank": null
+  },
+  "3708": {
+    "name": "XI Esport",
+    "slug": "xi-esport",
+    "rank": null
+  },
+  "3829": {
+    "name": "Unity",
+    "slug": "unity",
+    "rank": null
+  },
+  "3838": {
+    "name": "Pain Gaming Academy",
+    "slug": "pain-gaming-academy",
+    "rank": null
+  },
+  "3869": {
+    "name": "Jijiehao",
+    "slug": "jijiehao",
+    "rank": null
+  },
+  "4045": {
+    "name": "Against All Authority",
+    "slug": "against-all-authority",
+    "rank": null
+  },
+  "4122": {
+    "name": "Turma DO Pagode",
+    "slug": "turma-do-pagode",
+    "rank": null
+  },
+  "4170": {
+    "name": "Alter Ego",
+    "slug": "alter-ego",
+    "rank": null
+  },
+  "4175": {
+    "name": "Arcade",
+    "slug": "arcade",
+    "rank": null
+  },
+  "4232": {
+    "name": "Surge",
+    "slug": "surge",
+    "rank": null
+  },
+  "4264": {
+    "name": "Blitzkrieg",
+    "slug": "blitzkrieg",
+    "rank": null
+  },
+  "5045": {
+    "name": "Exsad Gaming",
+    "slug": "exsad-gaming",
+    "rank": null
+  },
+  "5065": {
+    "name": "Grindas",
+    "slug": "grindas",
+    "rank": null
+  },
+  "5345": {
+    "name": "Lag Gaming",
+    "slug": "lag-gaming",
+    "rank": null
+  },
+  "5391": {
+    "name": "Lazer Cats",
+    "slug": "lazer-cats",
+    "rank": null
+  },
+  "5440": {
+    "name": "Roundsgg",
+    "slug": "roundsgg",
+    "rank": null
+  },
+  "5473": {
+    "name": "Brazylijski Luz",
+    "slug": "brazylijski-luz",
+    "rank": null
+  },
+  "5701": {
+    "name": "Bestia",
+    "slug": "bestia",
+    "rank": null
+  },
+  "5702": {
+    "name": "Rune Eaters Esports",
+    "slug": "rune-eaters-esports",
+    "rank": null
+  },
+  "5716": {
+    "name": "Infurity Gaming",
+    "slug": "infurity-gaming",
+    "rank": null
+  },
+  "5745": {
+    "name": "Zomblers",
+    "slug": "zomblers",
+    "rank": null
+  },
+  "5933": {
+    "name": "L G",
+    "slug": "l-g",
+    "rank": null
+  },
+  "6024": {
+    "name": "Aurora Young Blood",
+    "slug": "aurora-young-blood",
+    "rank": null
+  },
+  "6062": {
+    "name": "Wildcard Gaming",
+    "slug": "wildcard-gaming",
+    "rank": null
+  },
+  "6155": {
+    "name": "Dxa Esports",
+    "slug": "dxa-esports",
+    "rank": null
+  },
+  "6253": {
+    "name": "Flyquest Red",
+    "slug": "flyquest-red",
+    "rank": null
+  },
+  "6255": {
+    "name": "Pcific Esport",
+    "slug": "pcific-esport",
+    "rank": null
+  },
+  "6277": {
+    "name": "Zotix",
+    "slug": "zotix",
+    "rank": null
+  },
+  "6282": {
+    "name": "Bounty Hunters Esports",
+    "slug": "bounty-hunters-esports",
+    "rank": null
+  },
+  "6308": {
+    "name": "The Suspect",
+    "slug": "the-suspect",
+    "rank": null
+  },
+  "7411": {
+    "name": "Sashi Academy",
+    "slug": "sashi-academy",
+    "rank": null
+  },
+  "7429": {
+    "name": "Cybershoke",
+    "slug": "cybershoke",
+    "rank": null
+  },
+  "7430": {
+    "name": "M80 CS GO",
+    "slug": "m80-cs-go",
+    "rank": null
+  },
+  "7461": {
+    "name": "Martians",
+    "slug": "martians",
+    "rank": null
+  },
+  "7498": {
+    "name": "Betboom Team",
+    "slug": "betboom-team",
+    "rank": null
+  },
+  "7536": {
+    "name": "Wanted Goons",
+    "slug": "wanted-goons",
+    "rank": null
+  },
+  "7610": {
+    "name": "Wave",
+    "slug": "wave",
+    "rank": null
+  },
+  "7631": {
+    "name": "Passion UA",
+    "slug": "passion-ua",
+    "rank": null
+  },
+  "7637": {
+    "name": "Bsmpeek",
+    "slug": "bsmpeek",
+    "rank": null
+  },
+  "7648": {
+    "name": "Change The Game",
+    "slug": "change-the-game",
+    "rank": null
+  },
+  "7699": {
+    "name": "Olybet",
+    "slug": "olybet",
+    "rank": null
+  },
+  "8118": {
+    "name": "Legacy BR",
+    "slug": "legacy-br",
+    "rank": null
+  },
+  "8171": {
+    "name": "Parivision",
+    "slug": "parivision",
+    "rank": null
+  },
+  "8221": {
+    "name": "Alliance CS",
+    "slug": "alliance-cs",
+    "rank": null
+  },
+  "8927": {
+    "name": "The Qube",
+    "slug": "the-qube",
+    "rank": null
+  },
+  "9018": {
+    "name": "Nutorious",
+    "slug": "nutorious",
+    "rank": null
+  },
+  "9127": {
+    "name": "The Huns Esports",
+    "slug": "the-huns-esports",
+    "rank": null
+  },
+  "9442": {
+    "name": "Atrix",
+    "slug": "atrix",
+    "rank": null
+  },
+  "9485": {
+    "name": "Boss",
+    "slug": "boss",
+    "rank": null
+  },
+  "9651": {
+    "name": "Hyperspirit",
+    "slug": "hyperspirit",
+    "rank": null
+  },
+  "9655": {
+    "name": "Regain",
+    "slug": "regain",
+    "rank": null
+  },
+  "9658": {
+    "name": "Oxuji Esports",
+    "slug": "oxuji-esports",
+    "rank": null
+  },
+  "9728": {
+    "name": "Banger Gang",
+    "slug": "banger-gang",
+    "rank": null
+  },
+  "9737": {
+    "name": "Havens",
+    "slug": "havens",
+    "rank": null
+  },
+  "9756": {
+    "name": "Diamant Esports CS",
+    "slug": "diamant-esports-cs",
+    "rank": null
+  },
+  "9764": {
+    "name": "Hacha Esports",
+    "slug": "hacha-esports",
+    "rank": null
+  },
+  "9847": {
+    "name": "Johnny Speeds",
+    "slug": "johnny-speeds",
+    "rank": null
+  },
+  "9921": {
+    "name": "Dgk",
+    "slug": "dgk",
+    "rank": null
+  },
+  "9932": {
+    "name": "Rebels Gaming CS",
+    "slug": "rebels-gaming-cs",
+    "rank": null
+  },
+  "9974": {
+    "name": "Chinggis Warriors",
+    "slug": "chinggis-warriors",
+    "rank": null
+  },
+  "10014": {
+    "name": "Aimclub",
+    "slug": "aimclub",
+    "rank": null
+  },
+  "10049": {
+    "name": "Galorys CS",
+    "slug": "galorys-cs",
+    "rank": null
+  },
+  "10088": {
+    "name": "Vexar",
+    "slug": "vexar",
+    "rank": null
+  },
+  "10128": {
+    "name": "Oddik Academy",
+    "slug": "oddik-academy",
+    "rank": null
+  },
+  "10277": {
+    "name": "Team Pigeons",
+    "slug": "team-pigeons",
+    "rank": null
+  },
+  "10370": {
+    "name": "Fisher College",
+    "slug": "fisher-college",
+    "rank": null
+  },
+  "10398": {
+    "name": "Flyquest",
+    "slug": "flyquest",
+    "rank": null
+  },
+  "10446": {
+    "name": "Rustec",
+    "slug": "rustec",
+    "rank": null
+  },
+  "10473": {
+    "name": "F5 Esports",
+    "slug": "f5-esports",
+    "rank": null
+  },
+  "10493": {
+    "name": "State",
+    "slug": "state",
+    "rank": null
+  },
+  "10533": {
+    "name": "Neverplay",
+    "slug": "neverplay",
+    "rank": null
+  },
+  "10601": {
+    "name": "Favbet",
+    "slug": "favbet",
+    "rank": null
+  },
+  "10703": {
+    "name": "Forze Reload",
+    "slug": "forze-reload",
+    "rank": null
+  },
+  "10718": {
+    "name": "K27",
+    "slug": "k27",
+    "rank": null
+  },
+  "10764": {
+    "name": "Team Aether",
+    "slug": "team-aether",
+    "rank": null
+  },
+  "10825": {
+    "name": "Boring Player",
+    "slug": "boring-player",
+    "rank": null
+  },
+  "10844": {
+    "name": "BC Game",
+    "slug": "bc-game",
+    "rank": null
+  },
+  "10966": {
+    "name": "Enjoy",
+    "slug": "enjoy",
+    "rank": null
+  },
+  "10994": {
+    "name": "G2 Ares",
+    "slug": "g2-ares",
+    "rank": null
+  },
+  "11042": {
+    "name": "Semperfi Esports",
+    "slug": "semperfi-esports",
+    "rank": null
+  },
+  "11050": {
+    "name": "Wingman",
+    "slug": "wingman",
+    "rank": null
+  },
+  "11101": {
+    "name": "Betclic Apogee Esports",
+    "slug": "betclic-apogee-esports",
+    "rank": null
+  },
+  "11165": {
+    "name": "Regnum4games",
+    "slug": "regnum4games",
+    "rank": null
+  },
+  "11174": {
+    "name": "Shinden",
+    "slug": "shinden",
+    "rank": null
+  },
+  "16724": {
+    "name": "Fire Flux",
+    "slug": "fire-flux",
+    "rank": null
+  },
+  "16743": {
+    "name": "Red Canids Academy",
+    "slug": "red-canids-academy",
+    "rank": null
+  },
+  "16746": {
+    "name": "Game Hunters",
+    "slug": "game-hunters",
+    "rank": null
+  },
+  "16748": {
+    "name": "WW",
+    "slug": "ww",
+    "rank": null
+  },
+  "18461": {
+    "name": "Bestia Academy",
+    "slug": "bestia-academy",
+    "rank": null
+  },
+  "18532": {
+    "name": "8sins",
+    "slug": "8sins",
+    "rank": null
+  },
+  "18539": {
+    "name": "Nuclear Tigeres",
+    "slug": "nuclear-tigeres",
+    "rank": null
+  },
+  "18688": {
+    "name": "Mana Esports",
+    "slug": "mana-esports",
+    "rank": null
+  },
+  "18773": {
+    "name": "Depo UZ",
+    "slug": "depo-uz",
+    "rank": null
+  },
+  "18841": {
+    "name": "Eternal Premium",
+    "slug": "eternal-premium",
+    "rank": null
+  },
+  "18843": {
+    "name": "Donstu Esports",
+    "slug": "donstu-esports",
+    "rank": null
+  },
+  "18887": {
+    "name": "Fengda Gaming",
+    "slug": "fengda-gaming",
+    "rank": null
+  },
+  "18892": {
+    "name": "Guara Esports",
+    "slug": "guara-esports",
+    "rank": null
+  },
+  "18899": {
+    "name": "Fake DO Biru",
+    "slug": "fake-do-biru",
+    "rank": null
+  },
+  "18926": {
+    "name": "Unsettled Resentment",
+    "slug": "unsettled-resentment",
+    "rank": null
+  },
+  "18940": {
+    "name": "Just Swing China",
+    "slug": "just-swing-china",
+    "rank": null
+  },
+  "18964": {
+    "name": "Chicken Coop Esports",
+    "slug": "chicken-coop-esports",
+    "rank": null
+  },
+  "18982": {
+    "name": "Foxtrot",
+    "slug": "foxtrot",
+    "rank": null
+  },
+  "19186": {
+    "name": "Inner Circle Esports",
+    "slug": "inner-circle-esports",
+    "rank": null
+  },
+  "19187": {
+    "name": "Marsborne",
+    "slug": "marsborne",
+    "rank": null
+  },
+  "19198": {
+    "name": "Persona Grata",
+    "slug": "persona-grata",
+    "rank": null
+  },
+  "19199": {
+    "name": "Sangal Alters",
+    "slug": "sangal-alters",
+    "rank": null
+  },
+  "19204": {
+    "name": "Phantom Esports",
+    "slug": "phantom-esports",
+    "rank": null
+  },
+  "19853": {
+    "name": "Shimmer",
+    "slug": "shimmer",
+    "rank": null
+  },
+  "19881": {
+    "name": "Basement Boys",
+    "slug": "basement-boys",
+    "rank": null
+  },
+  "19951": {
+    "name": "Algo",
+    "slug": "algo",
+    "rank": null
+  },
+  "19991": {
+    "name": "Ctrl Alt Defeat",
+    "slug": "ctrl-alt-defeat",
+    "rank": null
+  },
+  "20025": {
+    "name": "Magicos",
+    "slug": "magicos",
+    "rank": null
+  },
+  "20078": {
+    "name": "Aka Hero Kajo",
+    "slug": "aka-hero-kajo",
+    "rank": null
+  },
+  "20369": {
+    "name": "Sparta",
+    "slug": "sparta",
+    "rank": null
+  },
+  "20456": {
+    "name": "Minlate",
+    "slug": "minlate",
+    "rank": null
+  },
+  "20534": {
+    "name": "AM Gaming",
+    "slug": "am-gaming",
+    "rank": null
+  },
+  "20539": {
+    "name": "True Synergy",
+    "slug": "true-synergy",
+    "rank": null
+  },
+  "20577": {
+    "name": "Heroic Academy",
+    "slug": "heroic-academy",
+    "rank": null
+  },
+  "20582": {
+    "name": "Lph Gaming",
+    "slug": "lph-gaming",
+    "rank": null
+  },
+  "20623": {
+    "name": "Xdm",
+    "slug": "xdm",
+    "rank": null
+  },
+  "20626": {
+    "name": "Ursa",
+    "slug": "ursa",
+    "rank": null
+  },
+  "20697": {
+    "name": "Prestige",
+    "slug": "prestige",
+    "rank": null
+  },
+  "20702": {
+    "name": "Hermine Esports Club",
+    "slug": "hermine-esports-club",
+    "rank": null
+  },
+  "20713": {
+    "name": "Outfit 49",
+    "slug": "outfit-49",
+    "rank": null
+  },
+  "20792": {
+    "name": "Bushido Wildcats CS",
+    "slug": "bushido-wildcats-cs",
+    "rank": null
+  },
+  "20832": {
+    "name": "Fut Cs2",
+    "slug": "fut-cs2",
+    "rank": null
+  },
+  "20902": {
+    "name": "Endless Journey",
+    "slug": "endless-journey",
+    "rank": null
+  },
+  "20906": {
+    "name": "Girl Kissers CS",
+    "slug": "girl-kissers-cs",
+    "rank": null
+  },
+  "20952": {
+    "name": "Misa Esports CS",
+    "slug": "misa-esports-cs",
+    "rank": null
+  },
+  "20962": {
+    "name": "Legion PK",
+    "slug": "legion-pk",
+    "rank": null
+  },
+  "20976": {
+    "name": "3dmax Academy",
+    "slug": "3dmax-academy",
+    "rank": null
+  },
+  "20987": {
+    "name": "Kolesie",
+    "slug": "kolesie",
+    "rank": null
+  },
+  "21010": {
+    "name": "Team Crashers",
+    "slug": "team-crashers",
+    "rank": null
+  },
+  "21012": {
+    "name": "Falcons Force",
+    "slug": "falcons-force",
+    "rank": null
+  },
+  "21014": {
+    "name": "R2 ES",
+    "slug": "r2-es",
+    "rank": null
+  },
+  "21032": {
+    "name": "Kaleido",
+    "slug": "kaleido",
+    "rank": null
+  },
+  "21049": {
+    "name": "Huskies Esport",
+    "slug": "huskies-esport",
+    "rank": null
+  },
+  "21062": {
+    "name": "Astral",
+    "slug": "astral",
+    "rank": null
+  },
+  "21069": {
+    "name": "Elite Klan Cs2",
+    "slug": "elite-klan-cs2",
+    "rank": null
+  },
+  "21123": {
+    "name": "VP Future",
+    "slug": "vp-future",
+    "rank": null
+  },
+  "21135": {
+    "name": "Csdiilit",
+    "slug": "csdiilit",
+    "rank": null
+  },
+  "21342": {
+    "name": "Famalicao",
+    "slug": "famalicao",
+    "rank": null
+  },
+  "21383": {
+    "name": "Hindsight",
+    "slug": "hindsight",
+    "rank": null
+  },
+  "21388": {
+    "name": "Team Nemesis CS",
+    "slug": "team-nemesis-cs",
+    "rank": null
+  },
+  "21396": {
+    "name": "Gentle Mates CS",
+    "slug": "gentle-mates-cs",
+    "rank": null
+  },
+  "21412": {
+    "name": "Vasco Esports Cs2",
+    "slug": "vasco-esports-cs2",
+    "rank": null
+  },
+  "21415": {
+    "name": "Imperial Academy",
+    "slug": "imperial-academy",
+    "rank": null
+  },
+  "21431": {
+    "name": "Reign Above",
+    "slug": "reign-above",
+    "rank": null
+  },
+  "21437": {
+    "name": "Yngods",
+    "slug": "yngods",
+    "rank": null
+  },
+  "21440": {
+    "name": "Jumbo Team",
+    "slug": "jumbo-team",
+    "rank": null
+  },
+  "21505": {
+    "name": "Last Bullet",
+    "slug": "last-bullet",
+    "rank": null
+  },
+  "21550": {
+    "name": "Sportsbetexpert",
+    "slug": "sportsbetexpert",
+    "rank": null
+  },
+  "21556": {
+    "name": "Square Sausages",
+    "slug": "square-sausages",
+    "rank": null
+  },
+  "21639": {
+    "name": "Tnc Esports",
+    "slug": "tnc-esports",
+    "rank": null
+  },
+  "21645": {
+    "name": "Dashskins",
+    "slug": "dashskins",
+    "rank": null
+  },
+  "21684": {
+    "name": "Oramond",
+    "slug": "oramond",
+    "rank": null
+  },
+  "21685": {
+    "name": "Alzon",
+    "slug": "alzon",
+    "rank": null
+  },
+  "21694": {
+    "name": "Vexa",
+    "slug": "vexa",
+    "rank": null
+  },
+  "21697": {
+    "name": "Oldboys PL",
+    "slug": "oldboys-pl",
+    "rank": null
+  },
+  "21698": {
+    "name": "Oldboys French Team",
+    "slug": "oldboys-french-team",
+    "rank": null
+  },
+  "21729": {
+    "name": "Qwentry",
+    "slug": "qwentry",
+    "rank": null
+  },
+  "21752": {
+    "name": "Cybershoke Prospects",
+    "slug": "cybershoke-prospects",
+    "rank": null
+  },
+  "21840": {
+    "name": "Voca",
+    "slug": "voca",
+    "rank": null
+  },
+  "21842": {
+    "name": "Illwill",
+    "slug": "illwill",
+    "rank": null
+  },
+  "21854": {
+    "name": "Ars",
+    "slug": "ars",
+    "rank": null
+  },
+  "21915": {
+    "name": "A Great Chaos",
+    "slug": "a-great-chaos",
+    "rank": null
+  },
+  "21936": {
+    "name": "B8 Academy",
+    "slug": "b8-academy",
+    "rank": null
+  },
+  "21963": {
+    "name": "Charrados FC",
+    "slug": "charrados-fc",
+    "rank": null
+  },
+  "21980": {
+    "name": "Acend Cs2",
+    "slug": "acend-cs2",
+    "rank": null
+  },
+  "21990": {
+    "name": "Young Tigeres",
+    "slug": "young-tigeres",
+    "rank": null
+  },
+  "22003": {
+    "name": "Memeories",
+    "slug": "memeories",
+    "rank": null
+  },
+  "22009": {
+    "name": "Phantom Academy",
+    "slug": "phantom-academy",
+    "rank": null
+  },
+  "22014": {
+    "name": "Omega KZ",
+    "slug": "omega-kz",
+    "rank": null
+  },
+  "22026": {
+    "name": "Strael Bora",
+    "slug": "strael-bora",
+    "rank": null
+  },
+  "22031": {
+    "name": "Time Waves",
+    "slug": "time-waves",
+    "rank": null
+  },
+  "22032": {
+    "name": "Thuneder Downunder",
+    "slug": "thuneder-downunder",
+    "rank": null
+  },
+  "22120": {
+    "name": "Straight2killin",
+    "slug": "straight2killin",
+    "rank": null
+  },
+  "22123": {
+    "name": "Pulse US",
+    "slug": "pulse-us",
+    "rank": null
+  },
+  "22125": {
+    "name": "Morningstar",
+    "slug": "morningstar",
+    "rank": null
+  },
+  "22137": {
+    "name": "Tnt",
+    "slug": "tnt",
+    "rank": null
+  },
+  "22138": {
+    "name": "Elitenergy",
+    "slug": "elitenergy",
+    "rank": null
+  },
+  "22158": {
+    "name": "Vtm Esports",
+    "slug": "vtm-esports",
+    "rank": null
+  },
+  "22169": {
+    "name": "Bebop",
+    "slug": "bebop",
+    "rank": null
+  },
+  "22171": {
+    "name": "Metanoiagg",
+    "slug": "metanoiagg",
+    "rank": null
+  },
+  "22184": {
+    "name": "Fokus CS",
+    "slug": "fokus-cs",
+    "rank": null
+  },
+  "22185": {
+    "name": "EX Zero Tenacity",
+    "slug": "ex-zero-tenacity",
+    "rank": null
+  },
+  "22190": {
+    "name": "Sinqu",
+    "slug": "sinqu",
+    "rank": null
+  },
+  "22191": {
+    "name": "Thirtythree",
+    "slug": "thirtythree",
+    "rank": null
+  },
+  "22200": {
+    "name": "Nebula IN Chaox",
+    "slug": "nebula-in-chaox",
+    "rank": null
+  },
+  "22214": {
+    "name": "Japczany",
+    "slug": "japczany",
+    "rank": null
+  },
+  "22218": {
+    "name": "Magic RU",
+    "slug": "magic-ru",
+    "rank": null
+  },
+  "22240": {
+    "name": "Benched Gods",
+    "slug": "benched-gods",
+    "rank": null
+  },
+  "22280": {
+    "name": "Qual4",
+    "slug": "qual4",
+    "rank": null
+  },
+  "22351": {
+    "name": "Rottweilers",
+    "slug": "rottweilers",
+    "rank": null
+  },
+  "22362": {
+    "name": "Herewegoagain",
+    "slug": "herewegoagain",
+    "rank": null
+  },
+  "22368": {
+    "name": "Rethink",
+    "slug": "rethink",
+    "rank": null
+  },
+  "22408": {
+    "name": "EX Ruby",
+    "slug": "ex-ruby",
+    "rank": null
+  },
+  "22409": {
+    "name": "Lfo 6 TR",
+    "slug": "lfo-6-tr",
+    "rank": null
+  },
+  "22414": {
+    "name": "Tdk",
+    "slug": "tdk",
+    "rank": null
+  },
+  "22418": {
+    "name": "Fortress",
+    "slug": "fortress",
+    "rank": null
+  },
+  "22420": {
+    "name": "Invicta DK",
+    "slug": "invicta-dk",
+    "rank": null
+  },
+  "22421": {
+    "name": "Wazabi",
+    "slug": "wazabi",
+    "rank": null
+  },
+  "22465": {
+    "name": "Luna Esports",
+    "slug": "luna-esports",
+    "rank": null
+  },
+  "22481": {
+    "name": "Laguna",
+    "slug": "laguna",
+    "rank": null
+  },
+  "22505": {
+    "name": "Ding Cuts",
+    "slug": "ding-cuts",
+    "rank": null
+  },
+  "22509": {
+    "name": "New Vision",
+    "slug": "new-vision",
+    "rank": null
+  },
+  "22512": {
+    "name": "Atreides",
+    "slug": "atreides",
+    "rank": null
+  },
+  "22513": {
+    "name": "Mouse US",
+    "slug": "mouse-us",
+    "rank": null
+  },
+  "22559": {
+    "name": "Bmz",
+    "slug": "bmz",
+    "rank": null
+  },
+  "22560": {
+    "name": "Nexvoid",
+    "slug": "nexvoid",
+    "rank": null
+  },
+  "22603": {
+    "name": "Iedopieca",
+    "slug": "iedopieca",
+    "rank": null
+  },
+  "22604": {
+    "name": "M1x KS",
+    "slug": "m1x-ks",
+    "rank": null
+  },
+  "22611": {
+    "name": "Esport Berg",
+    "slug": "esport-berg",
+    "rank": null
+  },
+  "22729": {
+    "name": "Metanoia Wolves",
+    "slug": "metanoia-wolves",
+    "rank": null
+  },
+  "22732": {
+    "name": "Abyssal",
+    "slug": "abyssal",
+    "rank": null
+  },
+  "22733": {
+    "name": "Skele",
+    "slug": "skele",
+    "rank": null
+  },
+  "22734": {
+    "name": "Wrotberry",
+    "slug": "wrotberry",
+    "rank": null
+  },
+  "22737": {
+    "name": "Inner Circle Academy",
+    "slug": "inner-circle-academy",
+    "rank": null
+  },
+  "22738": {
+    "name": "Gatorian",
+    "slug": "gatorian",
+    "rank": null
+  },
+  "22739": {
+    "name": "Players RU 2",
+    "slug": "players-ru-2",
+    "rank": null
+  },
+  "22745": {
+    "name": "Zajezdzacze",
+    "slug": "zajezdzacze",
+    "rank": null
+  },
+  "22807": {
+    "name": "Fokus Reality",
+    "slug": "fokus-reality",
+    "rank": null
+  },
+  "22811": {
+    "name": "Mixmix",
+    "slug": "mixmix",
+    "rank": null
+  },
+  "22812": {
+    "name": "Drama Esports",
+    "slug": "drama-esports",
+    "rank": null
+  },
+  "22861": {
+    "name": "Passion Academy",
+    "slug": "passion-academy",
+    "rank": null
+  },
+  "22879": {
+    "name": "The Unit",
+    "slug": "the-unit",
+    "rank": null
+  },
+  "22881": {
+    "name": "Damajuana",
+    "slug": "damajuana",
+    "rank": null
+  },
+  "22891": {
+    "name": "Nigel Mirage",
+    "slug": "nigel-mirage",
+    "rank": null
+  },
+  "22897": {
+    "name": "Nordic Valor",
+    "slug": "nordic-valor",
+    "rank": null
+  },
+  "22898": {
+    "name": "Bojong",
+    "slug": "bojong",
+    "rank": null
+  },
+  "22899": {
+    "name": "Boyband",
+    "slug": "boyband",
+    "rank": null
+  },
+  "22903": {
+    "name": "EX Team Peep",
+    "slug": "ex-team-peep",
+    "rank": null
+  },
+  "22924": {
+    "name": "Club 333",
+    "slug": "club-333",
+    "rank": null
+  },
+  "22925": {
+    "name": "Rtt100",
+    "slug": "rtt100",
+    "rank": null
+  },
+  "22926": {
+    "name": "EX Kru Esports",
+    "slug": "ex-kru-esports",
+    "rank": null
+  },
+  "22933": {
+    "name": "Younglings",
+    "slug": "younglings",
+    "rank": null
+  },
+  "22934": {
+    "name": "5actors",
+    "slug": "5actors",
+    "rank": null
+  },
+  "22939": {
+    "name": "Evo Novo",
+    "slug": "evo-novo",
+    "rank": null
+  },
+  "22948": {
+    "name": "Frox",
+    "slug": "frox",
+    "rank": null
+  },
+  "22949": {
+    "name": "Team Leisure ",
+    "slug": "team-leisure-",
+    "rank": null
+  },
+  "22952": {
+    "name": "Daluyong",
+    "slug": "daluyong",
+    "rank": null
+  },
+  "22957": {
+    "name": "Team Acezone",
+    "slug": "team-acezone",
+    "rank": null
+  },
+  "23009": {
+    "name": "Hashiras",
+    "slug": "hashiras",
+    "rank": null
+  },
+  "23015": {
+    "name": "Chaos Gaming",
+    "slug": "chaos-gaming",
+    "rank": null
+  },
+  "23043": {
+    "name": "Alka",
+    "slug": "alka",
+    "rank": null
+  },
+  "23048": {
+    "name": "Ground Zero",
+    "slug": "ground-zero",
+    "rank": null
+  },
+  "23051": {
+    "name": "5star Esports",
+    "slug": "5star-esports",
+    "rank": null
+  },
+  "23052": {
+    "name": "Haunted House",
+    "slug": "haunted-house",
+    "rank": null
+  },
+  "23058": {
+    "name": "Basement Bobs",
+    "slug": "basement-bobs",
+    "rank": null
+  },
+  "23059": {
+    "name": "Off Site",
+    "slug": "off-site",
+    "rank": null
+  },
+  "23061": {
+    "name": "Nova Legion",
+    "slug": "nova-legion",
+    "rank": null
+  },
+  "23062": {
+    "name": "Matrix",
+    "slug": "matrix",
+    "rank": null
+  },
+  "23065": {
+    "name": "Alpha Dominion Nation",
+    "slug": "alpha-dominion-nation",
+    "rank": null
+  },
+  "23067": {
+    "name": "Bond1e",
+    "slug": "bond1e",
+    "rank": null
+  },
+  "23070": {
+    "name": "Masq",
+    "slug": "masq",
+    "rank": null
+  },
+  "23071": {
+    "name": "Palace",
+    "slug": "palace",
+    "rank": null
+  },
+  "23072": {
+    "name": "Banda Chuya",
+    "slug": "banda-chuya",
+    "rank": null
+  },
+  "23078": {
+    "name": "Lavked",
+    "slug": "lavked",
+    "rank": null
+  },
+  "23081": {
+    "name": "Magna",
+    "slug": "magna",
+    "rank": null
+  },
+  "23083": {
+    "name": "Rhadamanthys",
+    "slug": "rhadamanthys",
+    "rank": null
+  },
+  "23085": {
+    "name": "Chicanery",
+    "slug": "chicanery",
+    "rank": null
+  },
+  "23090": {
+    "name": "Cswalkers",
+    "slug": "cswalkers",
+    "rank": null
+  },
+  "23091": {
+    "name": "Nomercy Cs2",
+    "slug": "nomercy-cs2",
+    "rank": null
+  },
+  "23098": {
+    "name": "Playersclub",
+    "slug": "playersclub",
+    "rank": null
+  },
+  "23101": {
+    "name": "Acrobats",
+    "slug": "acrobats",
+    "rank": null
+  },
+  "23106": {
+    "name": "Z7 Esports",
+    "slug": "z7-esports",
+    "rank": null
+  },
+  "23107": {
+    "name": "Just_players",
+    "slug": "just_players",
+    "rank": null
+  },
+  "23113": {
+    "name": "Pure",
+    "slug": "pure",
+    "rank": null
+  },
+  "23115": {
+    "name": "Frz Unit",
+    "slug": "frz-unit",
+    "rank": null
+  },
+  "23118": {
+    "name": "Clockwork",
+    "slug": "clockwork",
+    "rank": null
+  },
+  "23120": {
+    "name": "BA 2",
+    "slug": "ba-2",
+    "rank": null
+  },
+  "23121": {
+    "name": "Void Sentinels",
+    "slug": "void-sentinels",
+    "rank": null
+  },
+  "23123": {
+    "name": "Ground Zero",
+    "slug": "ground-zero",
+    "rank": null
+  },
+  "23132": {
+    "name": "Deorum",
+    "slug": "deorum",
+    "rank": null
+  },
+  "23133": {
+    "name": "Luminous",
+    "slug": "luminous",
+    "rank": null
+  },
+  "23134": {
+    "name": "Pivosquad",
+    "slug": "pivosquad",
+    "rank": null
+  },
+  "23135": {
+    "name": "RE DI",
+    "slug": "re-di",
+    "rank": null
+  },
+  "23137": {
+    "name": "Insane Players",
+    "slug": "insane-players",
+    "rank": null
+  },
+  "23142": {
+    "name": "Majix Esports",
+    "slug": "majix-esports",
+    "rank": null
+  },
+  "23145": {
+    "name": "Riprising Argentina",
+    "slug": "riprising-argentina",
+    "rank": null
+  },
+  "23146": {
+    "name": "Really Gang Esports",
+    "slug": "really-gang-esports",
+    "rank": null
+  },
+  "23153": {
+    "name": "Clutchain Female",
+    "slug": "clutchain-female",
+    "rank": null
+  },
+  "23155": {
+    "name": "Nyxon Esports",
+    "slug": "nyxon-esports",
+    "rank": null
+  },
+  "23156": {
+    "name": "Tincan",
+    "slug": "tincan",
+    "rank": null
+  },
+  "23157": {
+    "name": "Se7ens",
+    "slug": "se7ens",
+    "rank": null
+  },
+  "23158": {
+    "name": "Arch",
+    "slug": "arch",
+    "rank": null
+  },
+  "23161": {
+    "name": "Nerve OF Cow",
+    "slug": "nerve-of-cow",
+    "rank": null
+  },
+  "23162": {
+    "name": "Brawlstars",
+    "slug": "brawlstars",
+    "rank": null
+  },
+  "23163": {
+    "name": "Team_coph9k",
+    "slug": "team_coph9k",
+    "rank": null
+  },
+  "23177": {
+    "name": "900fpsvseco",
+    "slug": "900fpsvseco",
+    "rank": null
+  },
+  "23178": {
+    "name": "Csgopositive",
+    "slug": "csgopositive",
+    "rank": null
+  },
+  "23182": {
+    "name": "Mglbros",
+    "slug": "mglbros",
+    "rank": null
+  },
+  "23183": {
+    "name": "Usst Esports",
+    "slug": "usst-esports",
+    "rank": null
+  },
+  "23184": {
+    "name": "Project 91",
+    "slug": "project-91",
+    "rank": null
+  },
+  "23186": {
+    "name": "Immune",
+    "slug": "immune",
+    "rank": null
+  },
+  "23187": {
+    "name": "Team Eclipse",
+    "slug": "team-eclipse",
+    "rank": null
+  },
+  "23188": {
+    "name": "Gaming BY Legends",
+    "slug": "gaming-by-legends",
+    "rank": null
+  },
+  "23193": {
+    "name": "Clutchain",
+    "slug": "clutchain",
+    "rank": null
+  },
+  "23217": {
+    "name": "Quintessencia",
+    "slug": "quintessencia",
+    "rank": null
+  },
+  "23218": {
+    "name": "Julie Cie",
+    "slug": "julie-cie",
+    "rank": null
+  },
+  "23219": {
+    "name": "Subtop DE France",
+    "slug": "subtop-de-france",
+    "rank": null
+  },
+  "23234": {
+    "name": "Psychoface",
+    "slug": "psychoface",
+    "rank": null
+  },
+  "23258": {
+    "name": "Dua Lipa Enjoyers",
+    "slug": "dua-lipa-enjoyers",
+    "rank": null
+  },
+  "23263": {
+    "name": "9daplug",
+    "slug": "9daplug",
+    "rank": null
+  },
+  "23264": {
+    "name": "Eliten",
+    "slug": "eliten",
+    "rank": null
+  },
+  "23265": {
+    "name": "Washed Cs2",
+    "slug": "washed-cs2",
+    "rank": null
+  },
+  "23267": {
+    "name": "Aab Bulls",
+    "slug": "aab-bulls",
+    "rank": null
+  },
+  "23268": {
+    "name": "Flod",
+    "slug": "flod",
+    "rank": null
+  },
+  "23280": {
+    "name": "L 820",
+    "slug": "l-820",
+    "rank": null
+  },
+  "23283": {
+    "name": "Golden Five",
+    "slug": "golden-five",
+    "rank": null
+  },
+  "23286": {
+    "name": "Walczaki",
+    "slug": "walczaki",
+    "rank": null
+  },
+  "23288": {
+    "name": "Low Cortisol",
+    "slug": "low-cortisol",
+    "rank": null
+  },
+  "23333": {
+    "name": "Frompr",
+    "slug": "frompr",
+    "rank": null
+  },
+  "23334": {
+    "name": "Inox Division",
+    "slug": "inox-division",
+    "rank": null
+  },
+  "23335": {
+    "name": "Vitality Academy",
+    "slug": "vitality-academy",
+    "rank": null
+  },
+  "23384": {
+    "name": "Aga Usa",
+    "slug": "aga-usa",
+    "rank": null
+  },
+  "23385": {
+    "name": "Its A Secret",
+    "slug": "its-a-secret",
+    "rank": null
+  },
+  "23387": {
+    "name": "Nnp CS",
+    "slug": "nnp-cs",
+    "rank": null
+  },
+  "23388": {
+    "name": "Cirahvi",
+    "slug": "cirahvi",
+    "rank": null
+  },
+  "23433": {
+    "name": "Privateer Gaming",
+    "slug": "privateer-gaming",
+    "rank": null
+  },
+  "23440": {
+    "name": "Oldboys NO",
+    "slug": "oldboys-no",
+    "rank": null
+  },
+  "23441": {
+    "name": "Pitstop Crew",
+    "slug": "pitstop-crew",
+    "rank": null
+  },
+  "23451": {
+    "name": "DJ Unt Friends",
+    "slug": "dj-unt-friends",
+    "rank": null
+  },
+  "23452": {
+    "name": "Oksucc",
+    "slug": "oksucc",
+    "rank": null
+  },
+  "23453": {
+    "name": "Messiah",
+    "slug": "messiah",
+    "rank": null
+  },
+  "23454": {
+    "name": "Sssghoul",
+    "slug": "sssghoul",
+    "rank": null
+  },
+  "23455": {
+    "name": "Restore UK",
+    "slug": "restore-uk",
+    "rank": null
+  },
+  "23456": {
+    "name": "Magic Piggy",
+    "slug": "magic-piggy",
+    "rank": null
+  },
+  "23457": {
+    "name": "Vlad TO The Bone666",
+    "slug": "vlad-to-the-bone666",
+    "rank": null
+  },
+  "23521": {
+    "name": "New Vision",
+    "slug": "new-vision",
+    "rank": null
+  },
+  "23622": {
+    "name": "Kinoa",
+    "slug": "kinoa",
+    "rank": null
+  },
+  "23641": {
+    "name": "Hafo",
+    "slug": "hafo",
+    "rank": null
+  },
+  "23645": {
+    "name": "Snarky",
+    "slug": "snarky",
+    "rank": null
+  },
+  "23658": {
+    "name": "Shishka",
+    "slug": "shishka",
+    "rank": null
+  },
+  "23802": {
+    "name": "Ftur",
+    "slug": "ftur",
+    "rank": null
+  },
+  "23942": {
+    "name": "Esport Academy Copenhagen",
+    "slug": "esport-academy-copenhagen",
+    "rank": null
+  },
+  "23943": {
+    "name": "Dfx Peek",
+    "slug": "dfx-peek",
+    "rank": null
+  },
+  "23970": {
+    "name": "Eternal 21",
+    "slug": "eternal-21",
+    "rank": null
+  },
+  "23971": {
+    "name": "Monki Flip",
+    "slug": "monki-flip",
+    "rank": null
+  },
+  "23972": {
+    "name": "Xclan",
+    "slug": "xclan",
+    "rank": null
+  },
+  "24009": {
+    "name": "Xept",
+    "slug": "xept",
+    "rank": null
+  },
+  "24012": {
+    "name": "Athlon",
+    "slug": "athlon",
+    "rank": null
+  },
+  "24032": {
+    "name": "Melilla Titans Esp",
+    "slug": "melilla-titans-esp",
+    "rank": null
+  },
+  "24034": {
+    "name": "Vortex Cgo",
+    "slug": "vortex-cgo",
+    "rank": null
+  },
+  "24098": {
+    "name": "95 Vikings",
+    "slug": "95-vikings",
+    "rank": null
+  }
+}

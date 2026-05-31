@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+.pytest_cache/
+.DS_Store
+
+# Secrets — NEVER commit these
+.env
+.streamlit/secrets.toml
+
+# Raw scrape dumps (large, regenerable)
+data/raw/
+
+# NOTE: data/clean/ and reports/ ARE committed on purpose, so the deployed
+# Streamlit Cloud app shows a working snapshot on first load instead of an
+# empty screen. Tighten these back up later if you prefer a lean repo.

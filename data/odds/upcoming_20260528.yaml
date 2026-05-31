@@ -1,0 +1,628 @@
+# CS2-Predictor odds template
+# Fill in decimal odds from your bookmaker (Superbet/Betano/etc.).
+# Leave blank or remove lines for markets you don't have.
+# `match_winner_a/b` is the only required market for EV calc.
+
+matches:
+  - match_id: 121349
+    team_a: "M80 CS GO"
+    team_b: "Voca"
+    tier: b
+    bo: 5
+    # ensemble says P(A wins series) = 51.2%
+    book: ""
+    odds:
+      match_winner_a:
+      match_winner_b:
+
+  - match_id: 121635
+    team_a: "Rune Eaters Esports"
+    team_b: "Team#24242"
+    tier: c
+    bo: 3
+    book: ""
+    odds:
+      match_winner_a:
+      match_winner_b:
+
+  - match_id: 121630
+    team_a: "Omega KZ"
+    team_b: "Team#24014"
+    tier: c
+    bo: 3
+    book: ""
+    odds:
+      match_winner_a:
+      match_winner_b:
+
+  - match_id: 121636
+    team_a: "Hotu"
+    team_b: "Pcific Esport"
+    tier: c
+    bo: 3
+    # ensemble says P(A wins series) = 46.0%
+    book: ""
+    odds:
+      match_winner_a:
+      match_winner_b:
+
+  - match_id: 121631
+    team_a: "Depo UZ"
+    team_b: "Team#18911"
+    tier: c
+    bo: 3
+    book: ""
+    odds:
+      match_winner_a:
+      match_winner_b:
+
+  - match_id: 121600
+    team_a: "Team#20904"
+    team_b: "Lph Gaming"
+    tier: c
+    bo: 3
+    book: ""
+    odds:
+      match_winner_a:
+      match_winner_b:
+
+  - match_id: 120413
+    team_a: "Johnny Speeds"
+    team_b: "AM Gaming"
+    tier: b
+    bo: 3
+    # ensemble says P(A wins series) = 58.1%
+    book: ""
+    odds:
+      match_winner_a:
+      match_winner_b:
+
+  - match_id: 121399
+    team_a: "Havu"
+    team_b: "Against All Authority"
+    tier: b
+    bo: 3
+    # ensemble says P(A wins series) = 61.8%
+    book: ""
+    odds:
+      match_winner_a:
+      match_winner_b:
+
+  - match_id: 120940
+    team_a: "Betclic Apogee Esports"
+    team_b: "Algo"
+    tier: b
+    bo: 3
+    # ensemble says P(A wins series) = 18.1%
+    book: ""
+    odds:
+      match_winner_a:
+      match_winner_b:
+
+  - match_id: 120745
+    team_a: "Nemiga"
+    team_b: "EX Ruby"
+    tier: b
+    bo: 3
+    # ensemble says P(A wins series) = 77.1%
+    book: ""
+    odds:
+      match_winner_a:
+      match_winner_b:
+
+  - match_id: 119796
+    team_a: "Faze"
+    team_b: "9Z"
+    tier: a
+    bo: 3
+    # ensemble says P(A wins series) = 30.6%
+    book: ""
+    odds:
+      match_winner_a:
+      match_winner_b:
+
+  - match_id: 121266
+    team_a: "Tnc Esports"
+    team_b: "Young Ninjas"
+    tier: c
+    bo: 3
+    # ensemble says P(A wins series) = 39.9%
+    book: ""
+    odds:
+      match_winner_a:
+      match_winner_b:
+
+  - match_id: 121601
+    team_a: "Unity"
+    team_b: "Infurity Gaming"
+    tier: c
+    bo: 3
+    # ensemble says P(A wins series) = 54.3%
+    book: ""
+    odds:
+      match_winner_a:
+      match_winner_b:
+
+  - match_id: 120941
+    team_a: "OG"
+    team_b: "Esport Academy Copenhagen"
+    tier: b
+    bo: 3
+    # ensemble says P(A wins series) = 60.1%
+    book: ""
+    odds:
+      match_winner_a:
+      match_winner_b:
+
+  - match_id: 120412
+    team_a: "Nemiga"
+    team_b: "WW"
+    tier: b
+    bo: 3
+    # ensemble says P(A wins series) = 82.6%
+    book: ""
+    odds:
+      match_winner_a:
+      match_winner_b:
+
+  - match_id: 121400
+    team_a: "Rebels Gaming CS"
+    team_b: "Rune Eaters Esports"
+    tier: b
+    bo: 3
+    # ensemble says P(A wins series) = 69.2%
+    book: ""
+    odds:
+      match_winner_a:
+      match_winner_b:
+
+  - match_id: 121158
+    team_a: "Brazylijski Luz"
+    team_b: "Misa Esports CS"
+    tier: c
+    bo: 3
+    # ensemble says P(A wins series) = 42.2%
+    book: ""
+    odds:
+      match_winner_a:
+      match_winner_b:
+
+  - match_id: 119797
+    team_a: "Sharks"
+    team_b: "Alliance CS"
+    tier: a
+    bo: 3
+    # ensemble says P(A wins series) = 43.8%
+    book: ""
+    odds:
+      match_winner_a:
+      match_winner_b:
+
+  - match_id: 121159
+    team_a: "New Vision"
+    team_b: "Vexar"
+    tier: c
+    bo: 3
+    # ensemble says P(A wins series) = 63.9%
+    book: ""
+    odds:
+      match_winner_a:
+      match_winner_b:
+
+  - match_id: 120942
+    team_a: "Cybershoke"
+    team_b: "Hyperspirit"
+    tier: b
+    bo: 3
+    # ensemble says P(A wins series) = 78.5%
+    book: ""
+    odds:
+      match_winner_a:
+      match_winner_b:
+
+  - match_id: 121401
+    team_a: "Lavked"
+    team_b: "Heroic Academy"
+    tier: b
+    bo: 3
+    # ensemble says P(A wins series) = 74.9%
+    book: ""
+    odds:
+      match_winner_a:
+      match_winner_b:
+
+  - match_id: 120410
+    team_a: "Gentle Mates CS"
+    team_b: "Eternal Fire"
+    tier: b
+    bo: 3
+    # ensemble says P(A wins series) = 53.4%
+    book: ""
+    odds:
+      match_winner_a:
+      match_winner_b:
+
+  - match_id: 121611
+    team_a: "Ence"
+    team_b: "Kuusamogg"
+    tier: c
+    bo: 3
+    # ensemble says P(A wins series) = 88.2%
+    book: ""
+    odds:
+      match_winner_a:
+      match_winner_b:
+
+  - match_id: 121546
+    team_a: "Arch"
+    team_b: "Famalicao"
+    tier: c
+    bo: 3
+    # ensemble says P(A wins series) = 99.3%
+    book: ""
+    odds:
+      match_winner_a:
+      match_winner_b:
+
+  - match_id: 119798
+    team_a: "Magic RU"
+    team_b: "Nip"
+    tier: a
+    bo: 3
+    # ensemble says P(A wins series) = 72.0%
+    book: ""
+    odds:
+      match_winner_a:
+      match_winner_b:
+
+  - match_id: 121540
+    team_a: "VP Prodigy"
+    team_b: "Bankapepsi"
+    tier: c
+    bo: 3
+    # ensemble says P(A wins series) = 54.6%
+    book: ""
+    odds:
+      match_winner_a:
+      match_winner_b:
+
+  - match_id: 120943
+    team_a: "Tdk"
+    team_b: "Tnc Esports"
+    tier: b
+    bo: 3
+    # ensemble says P(A wins series) = 71.6%
+    book: ""
+    odds:
+      match_winner_a:
+      match_winner_b:
+
+  - match_id: 121402
+    team_a: "Kolesie"
+    team_b: "Astral"
+    tier: b
+    bo: 3
+    # ensemble says P(A wins series) = 56.9%
+    book: ""
+    odds:
+      match_winner_a:
+      match_winner_b:
+
+  - match_id: 120748
+    team_a: "Tricked"
+    team_b: "AM Gaming"
+    tier: b
+    bo: 3
+    # ensemble says P(A wins series) = 67.7%
+    book: ""
+    odds:
+      match_winner_a:
+      match_winner_b:
+
+  - match_id: 121612
+    team_a: "Cirahvi"
+    team_b: "Boyband"
+    tier: c
+    bo: 3
+    # ensemble says P(A wins series) = 77.7%
+    book: ""
+    odds:
+      match_winner_a:
+      match_winner_b:
+
+  - match_id: 120411
+    team_a: "Genone"
+    team_b: "Just_players"
+    tier: b
+    bo: 3
+    # ensemble says P(A wins series) = 52.2%
+    book: ""
+    odds:
+      match_winner_a:
+      match_winner_b:
+
+  - match_id: 119368
+    team_a: "Dripmen"
+    team_b: "Oksucc"
+    tier: c
+    bo: 3
+    # ensemble says P(A wins series) = 46.3%
+    book: ""
+    odds:
+      match_winner_a:
+      match_winner_b:
+
+  - match_id: 121646
+    team_a: "Mibr Academy"
+    team_b: "Oddik Academy"
+    tier: c
+    bo: 3
+    # ensemble says P(A wins series) = 87.0%
+    book: ""
+    odds:
+      match_winner_a:
+      match_winner_b:
+
+  - match_id: 121610
+    team_a: "Alka"
+    team_b: "Furia FE"
+    tier: c
+    bo: 3
+    # ensemble says P(A wins series) = 79.0%
+    book: ""
+    odds:
+      match_winner_a:
+      match_winner_b:
+
+  - match_id: 121270
+    team_a: "Ence"
+    team_b: "Unity"
+    tier: c
+    bo: 3
+    # ensemble says P(A wins series) = 66.9%
+    book: ""
+    odds:
+      match_winner_a:
+      match_winner_b:
+
+  - match_id: 121403
+    team_a: "Oramond"
+    team_b: "L G"
+    tier: b
+    bo: 3
+    # ensemble says P(A wins series) = 57.5%
+    book: ""
+    odds:
+      match_winner_a:
+      match_winner_b:
+
+  - match_id: 120749
+    team_a: "Gentle Mates CS"
+    team_b: "Eternal Fire"
+    tier: b
+    bo: 3
+    # ensemble says P(A wins series) = 53.4%
+    book: ""
+    odds:
+      match_winner_a:
+      match_winner_b:
+
+  - match_id: 121271
+    team_a: "Cybershoke Prospects"
+    team_b: "Atreides"
+    tier: c
+    bo: 3
+    # ensemble says P(A wins series) = 45.1%
+    book: ""
+    odds:
+      match_winner_a:
+      match_winner_b:
+
+  - match_id: 121596
+    team_a: "Sangal Alters"
+    team_b: "Prestige"
+    tier: c
+    bo: 3
+    # ensemble says P(A wins series) = 28.3%
+    book: ""
+    odds:
+      match_winner_a:
+      match_winner_b:
+
+  - match_id: 121160
+    team_a: "Enjoy"
+    team_b: "G2 Ares"
+    tier: c
+    bo: 3
+    # ensemble says P(A wins series) = 59.8%
+    book: ""
+    odds:
+      match_winner_a:
+      match_winner_b:
+
+  - match_id: 121404
+    team_a: "Phantom Esports"
+    team_b: "Bushido Wildcats CS"
+    tier: b
+    bo: 3
+    # ensemble says P(A wins series) = 45.9%
+    book: ""
+    odds:
+      match_winner_a:
+      match_winner_b:
+
+  - match_id: 121405
+    team_a: "EX Ruby"
+    team_b: "EX Zero Tenacity"
+    tier: b
+    bo: 3
+    # ensemble says P(A wins series) = 72.1%
+    book: ""
+    odds:
+      match_winner_a:
+      match_winner_b:
+
+  - match_id: 120751
+    team_a: "Fokus CS"
+    team_b: "Fnatic"
+    tier: b
+    bo: 3
+    # ensemble says P(A wins series) = 41.6%
+    book: ""
+    odds:
+      match_winner_a:
+      match_winner_b:
+
+  - match_id: 120756
+    team_a: "Big Academy"
+    team_b: "Wave"
+    tier: c
+    bo: 3
+    # ensemble says P(A wins series) = 72.2%
+    book: ""
+    odds:
+      match_winner_a:
+      match_winner_b:
+
+  - match_id: 120757
+    team_a: "Team Acezone"
+    team_b: "Esport Berg"
+    tier: c
+    bo: 3
+    # ensemble says P(A wins series) = 51.9%
+    book: ""
+    odds:
+      match_winner_a:
+      match_winner_b:
+
+  - match_id: 121406
+    team_a: "Ursa"
+    team_b: "Tnc Esports"
+    tier: b
+    bo: 3
+    # ensemble says P(A wins series) = 60.3%
+    book: ""
+    odds:
+      match_winner_a:
+      match_winner_b:
+
+  - match_id: 121537
+    team_a: "Quazar"
+    team_b: "EX Team Peep"
+    tier: c
+    bo: 3
+    # ensemble says P(A wins series) = 58.7%
+    book: ""
+    odds:
+      match_winner_a:
+      match_winner_b:
+
+  - match_id: 121536
+    team_a: "Eternal Premium"
+    team_b: "Team_coph9k"
+    tier: c
+    bo: 3
+    # ensemble says P(A wins series) = 77.4%
+    book: ""
+    odds:
+      match_winner_a:
+      match_winner_b:
+
+  - match_id: 121539
+    team_a: "Misa Esports CS"
+    team_b: "Zotix"
+    tier: c
+    bo: 3
+    # ensemble says P(A wins series) = 67.2%
+    book: ""
+    odds:
+      match_winner_a:
+      match_winner_b:
+
+  - match_id: 121548
+    team_a: "New Vision"
+    team_b: "Jumbo Team"
+    tier: c
+    bo: 3
+    # ensemble says P(A wins series) = 70.2%
+    book: ""
+    odds:
+      match_winner_a:
+      match_winner_b:
+
+  - match_id: 121549
+    team_a: "Fire Flux"
+    team_b: "Aurora Young Blood"
+    tier: c
+    bo: 3
+    # ensemble says P(A wins series) = 66.3%
+    book: ""
+    odds:
+      match_winner_a:
+      match_winner_b:
+
+  - match_id: 121550
+    team_a: "Donstu Esports"
+    team_b: "Project 91"
+    tier: c
+    bo: 3
+    # ensemble says P(A wins series) = 81.7%
+    book: ""
+    odds:
+      match_winner_a:
+      match_winner_b:
+
+  - match_id: 121545
+    team_a: "Oldboys French Team"
+    team_b: "Oldboys PL"
+    tier: c
+    bo: 3
+    # ensemble says P(A wins series) = 66.0%
+    book: ""
+    odds:
+      match_winner_a:
+      match_winner_b:
+
+  - match_id: 121538
+    team_a: "Cybershoke Prospects"
+    team_b: "Falcons Force"
+    tier: c
+    bo: 3
+    # ensemble says P(A wins series) = 57.8%
+    book: ""
+    odds:
+      match_winner_a:
+      match_winner_b:
+
+  - match_id: 121542
+    team_a: "B8 Academy"
+    team_b: "Tincan"
+    tier: c
+    bo: 3
+    # ensemble says P(A wins series) = 84.7%
+    book: ""
+    odds:
+      match_winner_a:
+      match_winner_b:
+
+  - match_id: 121547
+    team_a: "Bushido Wildcats CS"
+    team_b: "Banger Gang"
+    tier: c
+    bo: 3
+    # ensemble says P(A wins series) = 60.4%
+    book: ""
+    odds:
+      match_winner_a:
+      match_winner_b:
+
+  - match_id: 120232
+    team_a: "Uno Mille"
+    team_b: "Yawara Esports"
+    tier: b
+    bo: 5
+    # ensemble says P(A wins series) = 57.3%
+    book: ""
+    odds:
+      match_winner_a:
+      match_winner_b:

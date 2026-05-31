@@ -1,0 +1,34 @@
+[
+  {
+    "date": "20260525",
+    "tier": "c",
+    "bo": 3,
+    "team_a": "Kuusamogg",
+    "team_b": "Toomuchvideogames",
+    "score": "2-0",
+    "actual_a_won": true,
+    "pred_p_a": 0.4474377669536316,
+    "mrt_p_a": 0.4309442070779546,
+    "flat_p_a": 0.3921527661669424,
+    "mmassey_p_a": 0.3963999844348522,
+    "mrt_conf": 0.5231543309346689,
+    "n_maps_a": 72,
+    "n_maps_b": 13
+  },
+  {
+    "date": "20260525",
+    "tier": "b",
+    "bo": 3,
+    "team_a": "Algo",
+    "team_b": "Just_players",
+    "score": "0-2",
+    "actual_a_won": false,
+    "pred_p_a": 0.6133875893906184,
+    "mrt_p_a": 0.5176185033226324,
+    "flat_p_a": 0.5479021351823474,
+    "mmassey_p_a": 0.5715421633909372,
+    "mrt_conf": 0.7704338311202903,
+    "n_maps_a": 89,
+    "n_maps_b": 46
+  }
+]
